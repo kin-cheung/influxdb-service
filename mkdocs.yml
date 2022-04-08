@@ -1,0 +1,8 @@
+site_name: "influxdb"
+site_description: "This uses templates!"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
