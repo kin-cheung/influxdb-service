@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: kin-cheung/influxdb-service
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: influxdb
 spec:
   type: service
   lifecycle: experimental
